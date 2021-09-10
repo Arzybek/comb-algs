@@ -1,0 +1,11 @@
+*.spec
+**/build/
+**/__pycache__/
+**/dist/
+*.exe
+**/.idea/
+
+**/.vs/
+**/[Pp]ackages/*
+**/[Bb]in/
+**/[Oo]bj/
